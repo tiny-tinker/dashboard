@@ -1,0 +1,54 @@
+.podcast-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 0;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.podcast-container .podcast-info {
+  display: flex;
+  align-items: center;
+}
+.podcast-container .podcast-info .control-btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 5px;
+}
+.podcast-container .podcast-info .control-btn-container .control-btn {
+  width: 96px;
+  height: 96px;
+  padding: 10px;
+  color: white;
+}
+.podcast-container .podcast-info .control-btn-container .control-btn:hover {
+  background-color: unset;
+}
+.podcast-container .podcast-info .podcast-info-content {
+  display: flex;
+  align-items: center;
+}
+.podcast-container .podcast-info .podcast-info-content .userName {
+  color: #4ed7d5;
+  font-weight: bolder;
+}
+.podcast-container .podcast-info .podcast-info-content .title {
+  color: #006462;
+  font-weight: bold;
+}
+.podcast-container .podcast-info .podcast-info-content .status-dot {
+  width: 0.4em;
+  height: 0.4em;
+  background-color: #00ba87;
+  border-radius: 50%;
+  margin-right: 5px;
+  display: inline-block;
+}
+.podcast-container .podcast-info .podcast-info-content .podcast-length {
+  color: #006462;
+}
+.podcast-container .podcast-info .podcast-info-content .podcast-action {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,69 @@
+$playerBg : rgba(0, 0, 0, 0.2);
+$nameColor : #4ed7d5;
+$titleColor : #006462;
+$statusSuccess : #00ba87;
+$statusWaiting : #ffd137;
+
+.podcast-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 15px 0;
+  padding: 10px;
+  background-color: $playerBg;
+
+  .podcast-info {
+    display: flex;
+    align-items: center;
+
+    .control-btn-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 5px;
+
+      .control-btn {
+        width: 96px;
+        height: 96px;
+        padding: 10px;
+        color: white;
+
+        &:hover {
+          background-color: unset;
+        }
+      }
+    }
+
+    .podcast-info-content {
+      display: flex;
+      align-items: center;
+
+      .userName {
+        color: $nameColor;
+        font-weight: bolder;
+      }
+      .title {
+        color: $titleColor;
+        font-weight: bold;
+      }
+
+      .status-dot {
+        width: 0.4em;
+        height: 0.4em;
+        background-color: $statusSuccess;
+        border-radius: 50%;
+        margin-right: 5px;
+        display: inline-block;
+      }
+
+      .podcast-length {
+        color: $titleColor;
+      }
+
+      .podcast-action {
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}
