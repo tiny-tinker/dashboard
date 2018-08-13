@@ -7,7 +7,6 @@ import Card from '@material-ui/core/Card';
 import IconButton from '@material-ui/core/IconButton';
 import Button from '@material-ui/core/Button';
 import { FiberManualRecord, PlayArrow, Pause } from '@material-ui/icons';
-import LinearProgress from '@material-ui/core/LinearProgress';
 import Slider from '@material-ui/lab/Slider';
 import moment from 'moment';
 import podcastStyle from './podcastStyle';
@@ -31,14 +30,22 @@ class Podcast extends React.Component {
     this.handleAudioSliderChange = this.handleAudioSliderChange.bind(this);
     this.loadedMetaData = this.loadedMetaData.bind(this);
     this.canPlay = this.canPlay.bind(this);
+    this.audioEnded = this.audioEnded.bind(this);
   }
 
   componentDidMount() {
     this.player.addEventListener('timeupdate', this.updateProgress);
     this.player.addEventListener('canPlay', this.canPlay);
     this.player.addEventListener('loadedmetadata', this.loadedMetaData);
+    this.player.addEventListener('ended', this.audioEnded);
   }
 
+  componentWillUnmount() {
+    this.player.removeEventListener('timeupdate', this.updateProgress);
+    this.player.removeEventListener('canPlay', this.canPlay);
+    this.player.removeEventListener('loadedmetadata', this.loadedMetaData);
+    this.player.removeEventListener('ended', this.audioEnded);
+  }
   /**
    *
    * Event handle functions
@@ -88,6 +95,11 @@ class Podcast extends React.Component {
 
   canPlay() {}
 
+  audioEnded() {
+    this.setState({
+      pause: false
+    });
+  }
   render() {
     const { classes, podcastInfo } = this.props;
 

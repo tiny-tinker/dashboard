@@ -1,7 +1,7 @@
 import { infoColor } from '../../../../../../assets/jss/material-dashboard-react';
 const nameColor = '#4ed7d5';
 const titleColor = '#006462';
-const statusSuccess = '#26c6da';
+const statusSuccess = '#00ba87';
 const statusWaiting = '#ffd137';
 const playerBg = 'rgba(0, 0, 0, 0.2)';
 
@@ -25,35 +25,6 @@ const styles = theme => ({
     alignItems: 'center',
     padding: '0 10px'
   },
-  progressSlider: {
-    flexGrow: '1',
-    alignSelf: 'center',
-    margin: '0 1.0em'
-  },
-  sliderRoot: {
-    '&:hover $progressSliderContainer': {
-      backgroundColor: '#00b85e'
-    },
-    '&:hover $thumb': {
-      opacity: '1.0'
-    }
-  },
-
-  progressSliderContainer: {
-    backgroundColor: 'white'
-  },
-
-  track: {
-    height: '4px',
-    backgroundColor: '#c2c2c2'
-  },
-  trackBefore: {
-    backgroundColor: 'inherit'
-  },
-  thumb: {
-    backgroundColor: 'white',
-    opacity: '0.0'
-  },
   podcastInfo: {
     display: 'flex',
     alignItems: 'center'
@@ -74,7 +45,7 @@ const styles = theme => ({
   statusDot: {
     width: '0.4em',
     height: '0.4em',
-    backgroundColor: statusSuccess,
+    backgroundColor: statusWaiting,
     borderRadius: '50%',
     marginRight: '5px',
     display: 'inline-block'
@@ -85,9 +56,7 @@ const styles = theme => ({
   podcastAction: {
     display: 'flex',
     alignItems: 'center',
-    [theme.breakpoints.down('md')]: {
-      flexDirection: 'column'
-    }
+    flexGrow: '0.4'
   },
   controlBtnContainer: {
     display: 'flex',
@@ -107,19 +76,15 @@ const styles = theme => ({
   ctrlBtnIcon: {
     fontSize: 40
   },
-  actionBtn: {
-    margin: theme.spacing.unit,
-    backgroundColor: '#00acc1',
-    width: '100%',
-    '&:hover': {
-      backgroundColor: '#26c6da'
-    }
+  timeleft: {
+    color: 'white'
   },
-  feedbackBtn: {
-    margin: theme.spacing.unit,
-    color: 'white',
-    borderColor: '#26c6da',
-    width: '100%'
+  progressBar: {
+    flexGrow: '1.0',
+    marginLeft: '1.0em'
+  },
+  barColorPrimary: {
+    backgroundColor: '#00acc1'
   },
   avatar: {
     margin: 10,

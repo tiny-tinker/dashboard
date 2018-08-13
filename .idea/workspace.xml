@@ -2,99 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20dbbe68-ddca-4dd8-b2ec-6a7aaa49701b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/css/material-dashboard-react.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/cover.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/new_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/reactlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/sidebar-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/tim_80x80.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/cardImagesStyles.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/checkboxAdnRadioStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/buttonStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardAvatarStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardBodyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardFooterStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardHeaderStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardIconStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/customInputStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/customTabsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/footerStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerLinksStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/sidebarStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/snackbarContentStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/tableStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/tasksStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/typographyStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/dropdownStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/layouts/dashboardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/tooltipStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/views/dashboardStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/views/iconsStyle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardAvatar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardBody.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardFooter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/CardIcon.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomButtons/Button.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomInput/CustomInput.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CustomTabs/CustomTabs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer/Footer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid/GridContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Grid/GridItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderLinks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Snackbar/Snackbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Snackbar/SnackbarContent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Table/Table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Tasks/Tasks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Danger.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Info.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Muted.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Primary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Quote.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Success.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Typography/Warning.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/home.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/homeStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/routes/dashboardRoutes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Analytics/Analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/images/default.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcast.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcastStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/dashboardStyle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Help/Help.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/NewPodcast/NewPodcast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Settings/Settings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Timeline/Timeline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/YourPodcasts/YourPodcasts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scenes/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/saga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/PodcastInConvert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/podcastInConvertStyle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/Timeline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/timelineStyle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcastStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcastStyle.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -107,14 +22,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.21197917">
+    <splitter split-orientation="horizontal" split-proportion="0.19270833">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Home.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/scenes/Home/Home.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-260">
-                  <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+                <state relative-caret-position="2162">
+                  <caret line="107" column="35" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Sidebar.jsx" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="2070">
+                  <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                   </folding>
@@ -122,11 +46,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Dashboard.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Dashboard.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="230">
-                  <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
+                <state relative-caret-position="23">
+                  <caret line="34" selection-start-line="34" selection-end-line="34" />
                   <folding>
                     <element signature="e#0#26#0" expanded="true" />
                     <element signature="e#84#145#0" expanded="true" />
@@ -135,25 +59,24 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Sidebar.jsx" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx">
+          <file leaf-file-name="podcastInConvertStyle.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/podcastInConvertStyle.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="177">
-                  <caret line="102" column="38" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="38" />
-                  <folding>
-                    <element signature="e#0#26#0" expanded="true" />
-                    <element signature="e#176#237#0" expanded="true" />
-                    <element signature="e#606#666#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="253">
+                  <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="12" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="podcast.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcast.scss">
+          <file leaf-file-name="Podcast.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="161">
-                  <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+                <state relative-caret-position="4025">
+                  <caret line="186" column="13" lean-forward="true" selection-start-line="186" selection-start-column="13" selection-end-line="186" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                    <element signature="e#84#145#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -163,14 +86,14 @@
       <split-second>
         <splitter split-orientation="horizontal" split-proportion="0.6933245">
           <split-first>
-            <splitter split-orientation="horizontal" split-proportion="0.5">
+            <splitter split-orientation="horizontal" split-proportion="0.50475186">
               <split-first>
-                <leaf>
+                <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
                   <file leaf-file-name="Podcast.js" pinned="false" current-in-tab="true">
                     <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="162">
-                          <caret line="122" column="73" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
+                        <state relative-caret-position="207">
+                          <caret line="97" selection-start-line="97" selection-end-line="97" />
                           <folding>
                             <element signature="e#0#26#0" expanded="true" />
                             <element signature="e#84#145#0" expanded="true" />
@@ -179,15 +102,50 @@
                       </provider>
                     </entry>
                   </file>
+                  <file leaf-file-name="PodcastInConvert.js" pinned="false" current-in-tab="false">
+                    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/PodcastInConvert.js">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="1058">
+                          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+                          <folding>
+                            <element signature="e#0#26#0" expanded="true" />
+                            <element signature="e#84#145#0" expanded="true" />
+                          </folding>
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
+                  <file leaf-file-name="dropdownStyle.jsx" pinned="false" current-in-tab="false">
+                    <entry file="file://$PROJECT_DIR$/src/assets/jss/material-dashboard-react/dropdownStyle.jsx">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="92">
+                          <caret line="8" column="35" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
                 </leaf>
               </split-first>
               <split-second>
-                <leaf>
+                <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+                  <file leaf-file-name="Timeline.js" pinned="false" current-in-tab="false">
+                    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/Timeline.js">
+                      <provider selected="true" editor-type-id="text-editor">
+                        <state relative-caret-position="230">
+                          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+                          <folding>
+                            <element signature="e#0#26#0" expanded="true" />
+                            <element signature="e#84#145#0" expanded="true" />
+                          </folding>
+                        </state>
+                      </provider>
+                    </entry>
+                  </file>
                   <file leaf-file-name="Podcast.js" pinned="false" current-in-tab="true">
                     <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js">
                       <provider selected="true" editor-type-id="text-editor">
-                        <state relative-caret-position="483">
-                          <caret line="74" column="46" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+                        <state relative-caret-position="345">
+                          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
                           <folding>
                             <element signature="e#0#26#0" expanded="true" />
                             <element signature="e#84#145#0" expanded="true" />
@@ -201,12 +159,21 @@
             </splitter>
           </split-first>
           <split-second>
-            <leaf>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
               <file leaf-file-name="podcastStyle.js" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcastStyle.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="138">
-                      <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+                    <state relative-caret-position="437">
+                      <caret line="121" column="17" lean-forward="true" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="timelineStyle.js" pinned="false" current-in-tab="false">
+                <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/timelineStyle.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="414">
+                      <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
                     </state>
                   </provider>
                 </entry>
@@ -220,18 +187,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Setting</find>
-      <find>App-mainPanel-2</find>
-      <find>fiberMan</find>
-      <find>prim</find>
-      <find>cardTitleWhite</find>
       <find>Pause</find>
       <find>Card</find>
       <find>primaryColor</find>
@@ -245,17 +207,22 @@
       <find>cardTitle</find>
       <find>darkCardHeader</find>
       <find>success</find>
-      <find>image</find>
       <find>mediumIcon</find>
       <find>PlayCircle</find>
       <find>avatar</find>
       <find>primary</find>
-      <find>controlButton</find>
       <find>color</find>
       <find>primar</find>
       <find>iconStyle</find>
       <find>audioPlayProgress</find>
       <find>Slider</find>
+      <find>controlButton</find>
+      <find>progress</find>
+      <find>image</find>
+      <find>Momentmomen</find>
+      <find>actionBtn</find>
+      <find>theme.</find>
+      <find>updateProgress</find>
       <find>canPlay</find>
     </findStrings>
   </component>
@@ -295,10 +262,14 @@
         <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/dashboardStyle.js" />
         <option value="$PROJECT_DIR$/src/assets/jss/material-dashboard-react.jsx" />
         <option value="$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/cardHeaderStyle.jsx" />
-        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js" />
         <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcast.scss" />
-        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/podcastInConvertStyle.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/PodcastInConvert.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/timelineStyle.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/Timeline.js" />
         <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcastStyle.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js" />
       </list>
     </option>
   </component>
@@ -318,8 +289,8 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="255" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="148" />
     <option name="y" value="40" />
     <option name="width" value="1599" />
     <option name="height" value="1047" />
@@ -352,47 +323,6 @@
               <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="jss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="jss" type="462c0819:PsiDirectoryNode" />
-              <item name="material-dashboard-react" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Card" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Header" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scenes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -438,7 +368,7 @@
               <item name="scenes" type="462c0819:PsiDirectoryNode" />
               <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Podcast" type="462c0819:PsiDirectoryNode" />
+              <item name="Timeline" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -490,36 +420,37 @@
       <updated>1533808972981</updated>
       <workItem from="1533808974484" duration="4288000" />
       <workItem from="1533813730528" duration="694000" />
-      <workItem from="1533820477848" duration="51031000" />
+      <workItem from="1533820477848" duration="60227000" />
+      <workItem from="1534125126475" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56013000" />
+    <option name="totallyTimeSpent" value="65805000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20572917" />
       <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="3" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22786178" />
-      <window_info anchor="bottom" id="TypeScript" order="0" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20572917" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22462203" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32937366" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,43 +465,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/services/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/saga.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/services/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/css/material-dashboard-react.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -579,13 +473,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/classnames/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -633,9 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,9 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/dashboard.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/dashboard.scss" />
     <entry file="file://$PROJECT_DIR$/src/scenes/Home/home.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -656,9 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,20 +586,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
           <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Header/HeaderLinks.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/jss/material-dashboard-react/components/headerStyle.jsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -735,20 +606,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="109" column="23" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#210#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Sidebar/Sidebar.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="102" column="38" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="38" />
+        <state relative-caret-position="2070">
+          <caret line="102" column="38" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="38" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#176#237#0" expanded="true" />
-            <element signature="e#606#666#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -757,11 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="61" column="32" lean-forward="true" selection-start-line="61" selection-start-column="32" selection-end-line="61" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#132#193#0" expanded="true" />
-            <element signature="e#477#517#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,30 +645,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/dashboardStyle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="74" column="27" selection-start-line="74" selection-start-column="27" selection-end-line="74" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/jss/material-dashboard-react.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="117" column="24" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#84#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -819,23 +662,6 @@
           <folding>
             <element signature="e#0#176#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="78" column="13" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcast.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -864,9 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -912,10 +735,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js">
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcast.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="122" column="73" selection-start-line="122" selection-start-column="73" selection-end-line="122" selection-end-column="73" />
+        <state relative-caret-position="161">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/images/default.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/podcastInConvertStyle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2162">
+          <caret line="107" column="35" selection-start-line="107" selection-start-column="26" selection-end-line="107" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#84#145#0" expanded="true" />
@@ -923,10 +770,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/timelineStyle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/dashboardStyle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/PodcastInConvert/PodcastInConvert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="55" column="42" lean-forward="true" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#84#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/jss/material-dashboard-react/dropdownStyle.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/podcastStyle.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="48" column="23" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        <state relative-caret-position="437">
+          <caret line="121" column="17" lean-forward="true" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Timeline/Timeline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#84#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/scenes/Dashboard/components/Podcast/Podcast.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4025">
+          <caret line="186" column="13" lean-forward="true" selection-start-line="186" selection-start-column="13" selection-end-line="186" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#84#145#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

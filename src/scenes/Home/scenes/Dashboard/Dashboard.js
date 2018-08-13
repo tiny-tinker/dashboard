@@ -11,6 +11,8 @@ import CardBody from 'components/Card/CardBody.jsx';
 import CardFooter from 'components/Card/CardFooter.jsx';
 
 import Podcast from './components/Podcast/Podcast';
+import PodcastInConvert from './components/PodcastInConvert/PodcastInConvert';
+import Timeline from './components/Timeline/Timeline';
 
 import dashboardStyle from './dashboardStyle';
 
@@ -30,12 +32,40 @@ const podcastsReady = [
     podcastStatus: 'warning'
   }
 ];
+const timelineData = [
+  {
+    date: 'Tuesday, October 2',
+    category: 'Category',
+    action: 'Submit Script'
+  },
+  {
+    date: 'Tuesday, October 5',
+    category: 'Category',
+    action: 'Publish your Podcast'
+  }
+];
 
 class Dashboard extends React.Component {
   renderPodcasts(podcasts) {
     if (podcasts !== null) {
       return podcasts.map((podcast, index) => (
         <Podcast key={index} podcastInfo={podcast} />
+      ));
+    }
+  }
+
+  renderPodcastsInConvert(podcasts) {
+    if (podcasts !== null) {
+      return podcasts.map((podcast, index) => (
+        <PodcastInConvert key={index} podcastInfo={podcast} />
+      ));
+    }
+  }
+
+  renderTimeline(timelines) {
+    if (timelines !== null) {
+      return timelines.map((timeline, index) => (
+        <Timeline key={index} timelineInfo={timeline} />
       ));
     }
   }
@@ -63,10 +93,17 @@ class Dashboard extends React.Component {
                   New employees on 15th September, 2016
                 </p>
               </CardHeader>
-              <CardBody />
+              <CardBody>{this.renderPodcastsInConvert(podcastsReady)}</CardBody>
             </Card>
           </GridItem>
-          <GridItem xs={12} sm={12} md={4} />
+          <GridItem xs={12} sm={12} md={4}>
+            <Card>
+              <CardHeader color="dark">
+                <h2 className={classes.cardTitleDark}>Timeline</h2>
+              </CardHeader>
+              <CardBody>{this.renderTimeline(timelineData)}</CardBody>
+            </Card>
+          </GridItem>
         </GridContainer>
       </div>
     );
